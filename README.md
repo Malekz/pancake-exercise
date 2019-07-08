@@ -1,6 +1,6 @@
 # pancake-exercise
 
 
-It was my first 1 one week in my journey into coding. 
+it's the first project in the first week of my coding journey.
 
-It is just pure html5 and css3my-travel-plan
+It is just pure html5 and css3.
